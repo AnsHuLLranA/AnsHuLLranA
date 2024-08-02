@@ -30,7 +30,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnsHuLLranA)](https://github.com/AnsHuLLranA/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulrana&show_icons=true&locale=en" alt="anshulrana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulrana&" alt="anshulrana" /></p>
 
