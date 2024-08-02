@@ -31,6 +31,4 @@
 <img alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=AnsHuLLranA"/>
 
 
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulrana&" alt="anshulrana" /></p>
-
-
+<p><img align="left" width="40%" src="https://streak-stats.demolab.com/?user=AnsHuLLranA&" alt="anshulrana" /></p> 
