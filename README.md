@@ -23,7 +23,7 @@ I'm from **Himachal Pradesh**, where the majestic mountains inspire me every day
 **Email:** [anshulrana772@gmail.com](mailto:anshulrana772@gmail.com)  
 
 ## 📄 Resume  
-Check out my experience: [Resume Link](https://drive.google.com/file/d/1ySZOPQq5FgU2NCgR1ar1edqvH3rJ8TqM/view?usp=drive_link)
+Check out my experience: [Resume Link](https://drive.google.com/file/d/1lzQ5VyW2lfQaudzwn07TBx7xcBV9-Id2/view?usp=share_link)
 
 ## ⚡ Fun Fact  
 I have a great sense of humor! 😂  
