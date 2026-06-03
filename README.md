@@ -19,7 +19,7 @@ I’m currently working on **Data Structures and Algorithms (DSA), backend devel
 All of my projects are available at [GitHub](https://github.com/AnsHuLLranA)
 
 ## 💬 About Me  
-Hello! I'm Anshul, a 3rd-year student at **Chandigarh University** and a passionate developer. I specialize in:  
+Hello! I'm Anshul, i am completed by computer science engineering at chandigarh university and a passionate developer. I specialize in:  
 - **Scalable web applications**  
 - **Efficient data structures and algorithms**  
 - **Frontend and backend development (React, Node.js, Django, etc.)**  
