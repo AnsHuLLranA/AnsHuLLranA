@@ -19,7 +19,7 @@ I’m currently working on **Data Structures and Algorithms (DSA), backend devel
 All of my projects are available at [GitHub](https://github.com/AnsHuLLranA)
 
 ## 💬 About Me  
-Hello! I'm Anshul, i am completed by computer science engineering at chandigarh university and a passionate developer. I specialize in:  
+Hello! I'm Anshul, completed by computer science engineering at chandigarh university and a passionate developer. I specialize in:  
 - **Scalable web applications**  
 - **Efficient data structures and algorithms**  
 - **Frontend and backend development (React, Node.js, Django, etc.)**  
@@ -30,7 +30,7 @@ I'm from **Himachal Pradesh**, where the majestic mountains inspire me every day
 **Email:** [anshulrana772@gmail.com](mailto:anshulrana772@gmail.com)  
 
 ## 📄 Resume  
-Check out my experience: [Resume Link](https://drive.google.com/file/d/1lzQ5VyW2lfQaudzwn07TBx7xcBV9-Id2/view?usp=share_link)
+Check out my experience: [Resume Link](https://drive.google.com/file/d/1SrBSp5Y7zpJyUp5q58EyWcpvFwPI65r-/view?usp=drive_link)
 
 ## ⚡ Fun Fact  
 I have a great sense of humor! 😂  
